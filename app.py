@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr  4 00:47:33 2021
-@author: Kushagra
+
 """
 
 import os
